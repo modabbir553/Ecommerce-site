@@ -6,7 +6,7 @@
 
 .navbar{
     height: 60px;
-    background-color: #0f1111;
+    background-color: black;
     color: white;
     display: flex;
     align-items: center;
@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("onlinemart_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
