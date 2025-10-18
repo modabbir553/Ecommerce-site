@@ -64,8 +64,6 @@
     border-radius: 6.5px;
 }
 
-
-
 .search-select {
     background-color: #f3f3f3;
     width: 50px;
@@ -129,13 +127,17 @@ span{
     justify-content: space-evenly;
 }
 
+.panel-all {
+    width: 370px;
+}
+
 .panel-ops p {
     display: inline;
     margin-left: 50px;
 }
 
 .panel-ops{
-    width: 70%;
+    width: 120%;
     font-size: 0.85rem;
 }
 
@@ -149,6 +151,7 @@ span{
     border: none;
     color:  rgb(193, 190, 190);
 }
+
 
 /** hero section **/
 .hero-section {
