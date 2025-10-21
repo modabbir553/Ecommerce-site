@@ -1,2 +1,2 @@
-# Amazon-Clone-only-front-end
-Here i build a clone of Amazon website
+# Ecommerce website
+Here i have build a E-commerce website only front end.
